@@ -46,8 +46,7 @@ The first argument is a string and the second one is the base of the number. In 
 
 ## Boolean values
 
-Scheme define two boolean constants `#f` and `#t` but note that the only false value, according to
-R<sup>7</sup>RS specification, should be `#f`. The specification also defines `#true` and `#false`
+Scheme define two boolean constants #f and #t but note that the only false value, according to R<sup>7</sup>RS specification, should be #f.. The specification also defines `#true` and `#false`
 aliases. Some Scheme also defines `true` and `false` without hash.
 
 ## Strings
